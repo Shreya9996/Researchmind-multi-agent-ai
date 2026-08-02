@@ -37,6 +37,9 @@
   - Download Report Feature
 
 ---
+<img width="971" height="592" alt="image" src="https://github.com/user-attachments/assets/103a4253-1f12-4cac-8cb9-c3f02f28c3c5" />
+<img width="1224" height="598" alt="image" src="https://github.com/user-attachments/assets/76f3d0d5-aa44-42da-8049-185cc37f91b4" />
+<img width="1363" height="586" alt="image" src="https://github.com/user-attachments/assets/2e3bc0ca-977b-4954-8b61-81fd0d8df311" />
 
 # 🏗️ Architecture
 
